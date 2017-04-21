@@ -1,7 +1,7 @@
 
 
-<body>
-<p> **Welcome to my github page** I hope you enjoy your stay! This page will be a work in progress throughout my journey through University of Oregon's OBA and CIT programs.
+
+ **Welcome to my github page** <br>I hope you enjoy your stay! This page will be a work in progress throughout my journey through University of Oregon's OBA and CIT programs.
 In the past I have helped set up other basic webpages such as <a href = "http://www.golarp.com">golarp.com</a>
 
 <img src="/images/github-banner.png"/>
