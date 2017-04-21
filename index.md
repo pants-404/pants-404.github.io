@@ -6,12 +6,11 @@
 
 </head>
 <body>
-<p>**Welcome to my github page.** I hope you enjoy your stay! This page will be a work in progress throughout my journey through University of Oregon's OBA and CIT programs.
-In the past I have helped set up other basic webpages such as [golarp.com](http://www.golarp.com).
+<p><h3>Welcome to my github page.</h3> I hope you enjoy your stay! This page will be a work in progress throughout my journey through University of Oregon's OBA and CIT programs.
+In the past I have helped set up other basic webpages such as <a href = "http://www.golarp.com">golarp.com</a>
 
-![Github Banner][~/Documents/repos/images/github-banner.png]
-
-Here is my [Hello World Repo!](https://github.com/pants-404/hello-world.git)
+<img src="~/Documents/repos/images/github-banner.png"></img>
+Here is my <a href ="https://github.com/pants-404/hello-world.git"> Hello-World Repo </a>
 </body>
 <script></script>
 </html>
