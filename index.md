@@ -11,6 +11,5 @@ In the past I have helped set up other basic webpages such as <a href = "http://
 
 <img src="/images/github-banner.png"/>
 Here is my <a href ="https://github.com/pants-404/hello-world.git"> Hello-World Repo </a>
-</body>
+
 <script></script>
-</html>
