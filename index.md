@@ -13,7 +13,7 @@ Here is my  [Hello-World Repo](https://github.com/pants-404/hello-world.git)
 **Here is a complete list of projects I completed for CIT 281**
 
 ***Project 2***
-[Prject 2](uo-cit.github.io/p2-17s-pants-404) was a basic set up of a github project page
+[Prject 2](https://uo-cit.github.io/p2-17S-pants-404/) was a basic set up of a github project page
 
 
 ***Project 3***
